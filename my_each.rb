@@ -1,4 +1,4 @@
-def my_each # put argument(s) here
+def my_each
   collection = [1, 2, 3, 4]
 my_each(collection) do |i|
   puts i
